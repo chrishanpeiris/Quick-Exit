@@ -5,7 +5,7 @@
  
 # Features: <br>
 <ul>
- <li>Full banner strip along bottom of page<li>
+ <li>Full banner strip along bottom of page</li>
  <li>When clicked, opens new tab with new web page</li>
  <li>redirects current page to NTGov home page</li>
  <li>Escape or backspace keys on keyboard also trigger 'Quick Exit'</li>
