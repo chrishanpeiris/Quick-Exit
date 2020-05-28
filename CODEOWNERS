@@ -6,7 +6,7 @@
 
 
 *.js                @ChrishanNTG
-*.html              @JiraNTG
+*.html              @ChrisNTG
 
 
 components/*.md     @SteveNTG
